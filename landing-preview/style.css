@@ -17,7 +17,7 @@ html, body {
     height: 100%;
 
     background: rgb(49,21,68);
-    background: linear-gradient(135deg, rgba(49,21,68,1) 0%, rgba(16,38,75,1) 100%), url(/res/blend.jpg);
+    background: linear-gradient(135deg, rgba(49,21,68,1) 0%, rgba(16,38,75,1) 100%), url(/landing-preview/res/blend.jpg);
 
     background-blend-mode: exclusion;
 }
@@ -83,7 +83,7 @@ html, body {
 
 .video-container>.fb-video {
     background-color: #c8c8c8;
-    background-image: url("/res/video_bg.svg");
+    background-image: url("/landing-preview/res/video_bg.svg");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
